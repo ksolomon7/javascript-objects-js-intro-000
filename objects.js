@@ -1,4 +1,4 @@
 let playlist={
-  nellyFurtado: "Promiscous girl";
-  drake: "Jungle";
+  nellyFurtado: "Promiscous girl",
+  drake: "Jungle",
 };
