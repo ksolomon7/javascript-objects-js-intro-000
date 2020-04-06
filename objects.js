@@ -1,4 +1,4 @@
 let playlist={
-  Nelly Furtado: "Promiscous girl";
+  Nelly furtado: "Promiscous girl";
   Drake: "Jungle";
 };
