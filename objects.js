@@ -1,1 +1,4 @@
-let playlist={Nelly Furtado: "Promiscous girl"}
+let playlist={
+  Nelly Furtado: "Promiscous girl";
+  Drake: "Jungle";
+};
